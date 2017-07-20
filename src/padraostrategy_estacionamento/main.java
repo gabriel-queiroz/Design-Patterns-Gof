@@ -54,7 +54,7 @@ public class main {
 		System.out.println("Quantidade : " +  onibusGrande.getQuantidade());
 		System.out.println("Total da Conta  R$ :  " + contan3.calcularEstacionar());
 	
-	System.out.println(Calculos.adicionarPorce(100, 5));
+	
 	}
 	
 }
