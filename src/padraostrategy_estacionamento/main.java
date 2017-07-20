@@ -39,7 +39,7 @@ public class main {
 		System.out.println("Quantidade : " +  golf2.getQuantidade());
 		System.out.println("Total da Conta  R$ :  " + contan2.calcularEstacionar());
 	
-	
+	// fazendo  calculo de  4 "Meses" de um Veiculo "Onibus"
 
 		CalculoEstaciomentoTempo calculoMensal = new CalculoMes();
 		
